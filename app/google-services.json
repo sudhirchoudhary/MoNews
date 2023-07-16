@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "30659684558",
+    "firebase_url": "https://sudhir-a30a8.firebaseio.com",
+    "project_id": "sudhir-a30a8",
+    "storage_bucket": "sudhir-a30a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30659684558:android:bdb47487e4a890cb32889f",
+        "android_client_info": {
+          "package_name": "com.moengage.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30659684558-n1jd9qkkiqi1ge3s1k1mq27kc3bnbm5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPSv7zwDthzmF44giL9lbTtZ5Nf53vVLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30659684558-n1jd9qkkiqi1ge3s1k1mq27kc3bnbm5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

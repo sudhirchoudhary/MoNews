@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MoNews</string>
+    <string name="permission_required">Permissions Required</string>
+    <string name="permission_desc">Please provide notifications permission to get notified for latest news</string>
+    <string name="no_internet">No Internet</string>
+    <string name="you_ll_be_notified">You\'ll be notified</string>
+</resources>
